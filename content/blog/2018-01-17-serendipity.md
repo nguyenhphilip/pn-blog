@@ -17,7 +17,7 @@ Stories provide our lives a sense of coherence, a hedge to prop ourselves on in 
 
 Life will always present us with opportunities that have the potential to profoundly alter our course along its river. It may be a person we meet, a change of job or city, a sobering rejection, a desire for more out of life. A cup of tea.
 
-These events are no more than events in themselves. But perhaps more beautifully, if we allow them to be, they are the unexpected serendipities that shape who we are, and who we become.
+These events are no more than events in and of themselves. But perhaps more beautifully, if we allow them to be, they are the unexpected serendipities that shape who we are, and who we become.
 
 Life is an edgeless marble; serendipity gives it form. What was once meaningless becomes something of impossible importance. The stagnant becomes animate, looks natural and feels seamless, sings and breathes and dances to the songs of existence.
 
