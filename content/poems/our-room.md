@@ -14,14 +14,15 @@ tags:
 * Half-finished poems
 * and crooked photos
 * line the chipping walls.
-* In the dark corners our two desks rest–
-* the candles are beyond extinguished–
+* In the dark corners our two desks rest.
+* The candles are beyond extinguished,
 * our eyesight isn't the best.
-* Loved ones tell us they're concerned
-* they say we need something different
-* But we can still see
-* we already have
-* All that we dream of.
+* Loved ones tell us they're concerned,
+* they say we need something different,
+* but we can still see
+* that we already have
+* All we can dream of
+* and more.
 
 {{< poem_close >}}
 

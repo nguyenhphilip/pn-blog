@@ -22,8 +22,8 @@ tags:
 * or so she's told, 
 * in the present of her time,
 * but still, She feels,
-* There is so much left to find
-* and so little that is known.
+* There is so much left to find,
+* there is still so much to know.
 
 {{< poem_close >}}
 

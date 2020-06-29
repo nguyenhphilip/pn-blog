@@ -20,7 +20,7 @@ tags:
 * To here where sorrows
 * are given light,
 * To here where shadows
-* die,
+* go to die,
 * To here, my dear,
 * a place just beyond myself
 * where all voices were meant

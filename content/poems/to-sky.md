@@ -10,23 +10,23 @@ tags:
 {{< poem_open >}}
 
 * There I threw my sorrows
-* In hopes that they would stay.
+* in hopes that they would stay.
 * Instead you returned tomorrow
 * with the weight of yesterday.
-* <br>
+* {{< poem-space >}}
 * Forgive me for asking twice,
 * I've already begged in prayer–
-* He gave me back a palm full of ice,
+* He gave me a palm filled with ice,
 * a reminder that life wasn't fair.
-* <br>
+* {{< poem-space >}}
 * The crows made their sighs
-* and the sunflowers bowed–
+* and the sunflowers bowed,
 * I screamed shouted and cried
 * while you stood indifferent and proud.
-* <br>
+* {{< poem-space >}}
 * The grass gleamed with dew
-* as I endured the pain–
-* But the earth smiled, renewed,
+* as I endured the cold pain,
+* but the earth smiled, renewed,
 * and thanked me for the rain.
 
 {{< poem_close >}}

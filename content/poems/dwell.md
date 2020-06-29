@@ -13,10 +13,11 @@ tags:
 * have we left unchecked
 * Forgotten and locked away
 * With the key nowhere to be found?
-* Don't worry. The door is still open.
+* Don't worry. 
+* The door is still open.
 * Climb the creaking stairs
 * Open the dust-covered drawers and look in
-* Run your fingers along the wooden shelves, 
+* Run your fingers along the wooden shelves 
 * now draped in darkness,
 * somewhere in the attic of your mind.
 * Once there you may rediscover
@@ -25,7 +26,7 @@ tags:
 * Your entire life.
 * Prepare yourself: 
 * The ghosts will cry and beckon.
-* Don't run.
+* But don't run.
 * Sit and stay awhile.
 * Get to know yourself.
 * Offer light

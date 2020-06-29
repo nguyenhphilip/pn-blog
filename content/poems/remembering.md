@@ -18,7 +18,7 @@ tags:
 * the birds
 * could no longer
 * sing–
-* <br>
+* {{< poem-space >}}
 * A Black woman,
 * shot dead
 * in her bed
@@ -28,7 +28,7 @@ tags:
 * find their way 
 * to this harsh 
 * reality–
-* <br>
+* {{< poem-space >}}
 * A Black man,
 * his body pinned
 * under 

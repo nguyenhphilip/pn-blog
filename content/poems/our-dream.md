@@ -18,7 +18,7 @@ tags:
 * afraid of heights)
 * A home for two who
 * craft dreams
-* by candlelight.
+* lit by candlelight.
 
 {{< poem_close >}}
 

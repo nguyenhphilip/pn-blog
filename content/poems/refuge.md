@@ -13,17 +13,17 @@ tags:
 * the water Here is clear,
 * Your Storm is now over
 * Rest easy now, my Dear.
-* <br>
+* {{< poem-space >}}
 * Let your Anchor reach
 * the depths of my Sea,
 * Let it Sink with Time
 * while you set yourself Free.
-* <br>
+* {{< poem-space >}}
 * Strip the worn Sails
 * and cast them to new Hands,
 * Let them–Taste–again
 * the Salt of warm Sands.
-* <br>
+* {{< poem-space >}}
 * Turn the Whites into Doves
 * that soar the open sky,
 * Turn the Kites into Loves
