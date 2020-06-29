@@ -8,7 +8,7 @@ tags:
   - stories
 ---
 
-In the airport, a young child from China sitting across from me is working on a puzzle. 
+In the airport, a young child from China sitting across me is working on a puzzle. 
 
 I watch as she pieces the parts together, then realize she’s missing the last one. It’s unclear if she herself has noticed yet, but I can’t help and feel that this is a manifestation of something that’s been on my mind. Something that seems incomplete, lacking clarity, but I’m unsure as to what.
 
