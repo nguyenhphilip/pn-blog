@@ -16,7 +16,7 @@ Defeated, she scrambles back to her bag and turns her attention to her journal a
 
 Her shyness quickly gives way to her colorful enthusiasm as she leafs through the pages, pointing out details about the Animal and Magic Kingdom, telling me stories about what this and that princess was like (“The one with long hair, Rapunzel!”), painting me a beautiful picture of how she views and experiences life. She asks me, “Do you know what kind of shoes __he__ wears?”, referring to the boots of an icy character pasted in her journal. “Slippers!” 
 
-She asks about my journal –which she claims is a diary – and where home is for me. She asks if Santa gave me the guitar I am currently carrying, and if I’ve been good or bad, or both. I tell her mostly good, and that Santa doesn’t believe in perfection anyways. She asks if I think Santa is real, how many diaries I have, how many pages I’ve written in it, and what I like to write about. The questions are endless, and so is the joy.
+She asks about my journal – which she claims is a diary – and where home is for me. She asks if Santa gave me the guitar I am currently carrying, and if I’ve been good or bad, or both. I tell her mostly good, and that Santa doesn’t believe in perfection anyways. She asks if I think Santa is real, how many diaries I have, how many pages I’ve written in it, and what I like to write about. The questions are endless, and so is the joy.
 
 A notification tells me my flight is departing from a different gate, and I tell her I have to go.
 
