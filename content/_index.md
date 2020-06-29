@@ -14,6 +14,6 @@ A California native turned New England leaf peeper, I currently help run the [AB
 
 I [walked across Spain](/tags/camino-de-santiago) once and [wrote about it](/tags/camino-de-santiago).
 
-Books, [poems](https://philintheblank.me/tags/poem/), people, playing outside, and learning bring me joy.
+Books, [poems](/poems/), people, playing outside, and learning bring me joy.
 
 Contact: [Twitter](https://twitter.com/NguyenHPhil)
