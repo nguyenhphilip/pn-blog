@@ -1,6 +1,6 @@
 ---
 date: "2020-06-30"
-title: "Forever my Light"
+title: "My Light"
 images:
   - /photos/stars-gone.JPG
 tags:
