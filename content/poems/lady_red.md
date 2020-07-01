@@ -9,12 +9,12 @@ tags:
   
 {{< poem_open >}}
 
-* While the yellow-jackets mingled with
-* the Azaleas and the sunflowers,
+* While the yellow-jackets mingle with
+* the Azaleas and the sunflowers
 * and the people with only each other,
 * You were there in the sky
-* on a young-wooded branch,
-* navigating the heights of which
+* on a young branch navigating
+* the heights of which
 * far too few have seen,
 * crawling toward the sun.
 * You weaved through the leaves

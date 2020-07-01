@@ -28,9 +28,9 @@ tags:
 * lives on
 * {{< poem-space >}}
 * in a bed
-* of neurons,
+* of neurons
 * {{< poem-space >}}
-* you said,
+* you once said,
 * electrical impulses 
 * {{< poem-space >}}
 * with enough power

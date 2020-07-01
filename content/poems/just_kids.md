@@ -22,7 +22,7 @@ tags:
 * to land and settle,
 * an identity to inhabit
 * and call my own.
-* <br>
+* {{< poem-space >}}
 * It’s a story I can’t get over, mine,
 * this collection of half-finished poems
 * full of half-hearted lines
@@ -31,7 +31,7 @@ tags:
 * but the questions
 * are quicker to rise
 * from their depths.
-* <br>
+* {{< poem-space >}}
 * Still, beneath the sail
 * lies the redeeming oar. 
 * Grab it and propel yourself forward
