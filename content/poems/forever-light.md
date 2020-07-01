@@ -22,7 +22,7 @@ tags:
 * more real
 * {{< poem-space >}}
 * than the rain does.
-* You're gone,
+* You're gone
 * {{< poem-space >}}
 * but the story
 * lives on
