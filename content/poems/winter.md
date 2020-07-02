@@ -12,30 +12,20 @@ tags:
 
 {{< poem_open >}}
 
-* Snow and frost for people and sidewalks.
-* Inches and burdens
-* for sauntered footfalls.
+* A season between seasons
+* a bridge crossed by the plentiful few,
+* Adults seek it endlessly
+* though already the children knew.
 * {{< poem-space >}}
-* There is a season between seasons,
-* a bridge crossed by the plentiful few.
-* Adults and scientists seek it endlessly,
-* though only the children know
-* of its whereabouts.
-* But don’t bother with asking them –– 
-* they’re sworn to the promises of secrecy.
+* Don’t bother with asking –– 
+* we’re sworn to secrecy.
+* I myself have nothing to say
+* though clues are not certainties:
 * {{< poem-space >}}
-* I make no guarantees of my own.
-* Certainty is certainly
-* out of the picture.
-* Though some day you may catch wind of
-* what it is and
-* where it may be found.
-* {{< poem-space >}}
-* A clue:
-* It may be right in front of you.
-* Between one breath of Winter and
-* one sigh of Spring
-* exists everything essential.
+* Between one breath of Winter
+* and one sigh of Spring,
+* go to where the avians
+* sing.
 
 {{< poem_close >}}
 
