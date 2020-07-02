@@ -36,7 +36,7 @@ He's 18, hardly an adult only by societal metrics. His family is hooked on drugs
 
 We have many things in common: enjoyment of rap, educational values, even political views. He's been reading at the local library and is trying to find a job to support himself.
 
-His uncle had kicked him out of the house two weeks ago. He's had his own fair share of drug use, although he tells me he's trying to get clean. He claims he's dealing with a brain tumor. He's not sure how much longer he'll be around. He hands me his college ID card and says that he was a student at the local community college, as if to prove to me the validity of his words and existence. He's scared. 
+His uncle had kicked him out of the house two weeks ago. He's had his own fair share of drug use, although he tells me he's trying to get clean. He claims he's dealing with a brain tumor and is not sure how much longer he'll be around. He hands me his college ID card and says that he was a student at the local community college, as if to prove to me the validity of his words and existence. He's scared. 
 
 I didn't care whether or not the whole story was a lie, but I was saddened by the truths radiating from his presence. It occurs to me that he is just another human being struggling to make his way in this world, like me. Only I had been put in more fortunate circumstances. The only thing that differentiated us and our lives was luck. 
 
