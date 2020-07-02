@@ -8,7 +8,7 @@ images:
   - /photos/bookspine.JPG
 ---
 
-What follows is something that happened in 2017. I wrote about it then and figure it's worth reposting, especially given the current state of affairs on the homefront and in the world. 
+What follows is something that happened in 2017. I wrote about it then for my friends and figure it's worth reposting here, especially given the current state of affairs on the homefront and in the world. 
 
 ---------
 
@@ -44,7 +44,7 @@ I'm amazed that he is still able to sling a few jokes at me despite his situatio
 
 ----
 
-It is in our nature to marginalize and distance ourselves from people who seem different from us. Consciously I know it's unjust. Yet my actions did not reflect this thought before chatting over coffee with him.
+It is in our nature to marginalize and distance ourselves from people who seem different from us. Consciously I know it's unjust. Yet my actions did not reflect this thought before chatting over coffee with the person mentioned above.
 
 It was hard, initially, to just be 'me' with him. It felt icky to shake his hand. I caught myself judging his past and prematurely concluding that his situation was a direct consequence of his actions. I had taken my own privilege for granted and failed to acknowledge him as another human being. I guess it's easier to preach equality than it is to act in accordance with it.
 
