@@ -18,4 +18,6 @@ Books, [poems](/poems/), people, playing outside, and learning bring me joy.
 
 Contact: [@NguyenHPhil](https://twitter.com/NguyenHPhil)
 
-Latest writing: 06-30-20 // [Poem: My Light](poems/forever-light/)
+_Latest writings:_
+
+Post - [The Beliefs We Harbor](/blog/2020/07/the-beliefs-we-harbor/) || Poem - [My Light](poems/forever-light/)
