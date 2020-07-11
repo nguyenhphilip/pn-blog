@@ -20,4 +20,4 @@ Contact: [@NguyenHPhil](https://twitter.com/NguyenHPhil)
 
 _Latest writings:_
 
-Post - [The Beliefs We Harbor](/blog/2020/07/the-beliefs-we-harbor/) || Poem - [My Light](poems/forever-light/)
+Post - [Dad and America](/blog/2020/07/dad-and-america/) || Poem - [My Light](poems/forever-light/)
