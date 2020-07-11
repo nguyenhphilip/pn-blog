@@ -23,7 +23,7 @@ A few days later Dad was sent to a refugee camp in Cambodia. He spent a few mont
 
 ---
 
-I asked him what he thought about the problems America is currently facing. While he was somewhat more complacent regarding his perspective on things, he couldn’t deny the fact that the fate of this country rests in the hands of its people, and that the opportunity to make things better was always there, unlike in other countries. America had taken him in as a child and gave him the chance to build a life of his own. That was certainly worth celebrating.
+I asked him what he thought about the problems America is currently facing. While he was somewhat more complacent regarding his perspective on things and what could be done, he couldn’t deny the fact that the fate of this country rests in the hands of its people, and that the opportunity to make things better was always there, unlike in other countries. America had taken him in as a child and gave him the chance to build a life of his own. That was certainly worth celebrating.
 
 “Life, liberty, and the pursuit of happiness”. That has always been the promised ideal for all Americans, however short we have fallen at times aspiring to these heights, particularly because of our ongoing struggle to expand the notion of what and who Americans are. Yet when considering the grander scope of history, the circle has widened to encompass more and more people. 
 
