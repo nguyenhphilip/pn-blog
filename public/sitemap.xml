@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/poem/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/poems/waiting/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/america/</loc>
     <lastmod>2020-07-11T00:00:00+00:00</lastmod>
   </url>
@@ -19,11 +34,6 @@
   
   <url>
     <loc>/tags/immigration/</loc>
-    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-07-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,11 +59,6 @@
   
   <url>
     <loc>/poems/forever-light/</loc>
-    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/poem/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   

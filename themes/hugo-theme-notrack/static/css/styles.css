@@ -2,22 +2,22 @@
 body {
   margin: 0;
   overflow-y: scroll;
-  font-size: 1.21em;
-  line-height: 1.21;
+  font-size: 1.1em;
+  line-height: 1.1;
   font-family: FreeSerif, serif; }
   @media (min-width: 64em) {
     body {
-      font-size: 1.32em;
-      line-height: 1.32; } }
+      font-size: 1.2em;
+      line-height: 1.3; } }
   @media (min-width: 85.375em) {
     body {
-      font-size: 1.43em; } }
+      font-size: 1.3em; } }
   @media (min-width: 120em) {
     body {
-      font-size: 1.54em; } }
+      font-size: 1.4em; } }
   @media (min-width: 160em) {
     body {
-      font-size: 1.76em; } }
+      font-size: 1.5em; } }
 /*largest screens*/
 main {
   display: block;
