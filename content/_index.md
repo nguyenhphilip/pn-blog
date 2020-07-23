@@ -20,4 +20,4 @@ Contact: [@NguyenHPhil](https://twitter.com/NguyenHPhil)
 
 _Latest writings:_
 
-Post - [Dad and America](/blog/2020/07/dad-and-america/) || Poem - [Waiting](poems/Waiting/)
+Post - [Dad and America](/blog/2020/07/dad-and-america/) || Poem - [Growing Up](poems/growing-up/)
