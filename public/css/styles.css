@@ -24,21 +24,70 @@ main {
   margin: 0 auto;
   padding: 2em 2em;
   background-color: white; }
-  @media (min-width: 48em) {
+  @media (min-width: 52em) {
     main {
-      margin: 0 15%; } }
+      margin: 0 15%; }
+    .main_content {
+      width: 100%; }
+    .main_post {
+      width: 100%;}
+    .main_poem {
+      width: 100%;
+    }
+  }
   @media (min-width: 64em) {
     main {
-      margin: 0 17%; } }
+      margin: 0 17%; }
+    .main_content {
+      width: 100%; }
+        .main_post {
+      width: 49.5%;
+      float: left;}
+    .main_poem {
+      width: 49.5%;
+      float: left;
+    }
+  }
   @media (min-width: 85.375em) {
     main {
-      margin: 0 21%; } }
+      margin: 0 21%; } 
+    .main_content {
+      width: 100%; }
+    .main_post {
+      width: 49.5%;
+      float: left;}
+    .main_poem {
+      width: 49.5%;
+      float: left;
+    }
+  }
   @media (min-width: 120em) {
     main {
-      margin: 0 24%; } }
+      margin: 0 24%; }
+    .main_content {
+      width: 100%; }
+    .main_post {
+      width: 49.5%;
+      float: left;}
+    .main_poem {
+      width: 49.5%;
+      float: left;
+    }
+  }
   @media (min-width: 160em) {
     main {
-      margin: 0 27%; } }
+      margin: 0 27%; } 
+    .main_content {
+      width: 100%;
+    }
+    .main_post {
+      width: 49.5%;
+      float: left;}
+    .main_poem {
+      width: 49.5%;
+      float: left;
+    }
+  }
 a {
   font-family: FreeSerif, serif;
   color: #07608f;
@@ -275,8 +324,8 @@ nav li:hover {
   @media (min-width: 28em) {
     .blog-post-summary {
       margin: 2em; } }
-#latest-blog-home {
-  text-align: center;
+.latest-blog-home {
+  text-align: left;
   font-size: 2em; }
 
 .delimiter {
@@ -286,7 +335,7 @@ nav li:hover {
 .blog-post-title {
   margin-bottom: 0.2em;
   padding-bottom: 0;
-  font-size: 1.6em; }
+  font-size: 1.0em; }
   .blog-post-title a {
     color: #333;
     font-family: FreeSans, sans-serif; }

@@ -21,21 +21,39 @@
             </div>
             {{ end }}
         {{ end }}
-
-        {{ if and (or $headlessExists $contentExists) $showLatest }}
-            <p class="delimiter">&diams; &diams; &diams;</p>
-
-            {{ $blogLatest := default "Latest Blog Posts" site.Params.blogLatestHeading }}
-            <h2 id="latest-blog-home">{{- $blogLatest -}}</h2>
-        {{ end }}
-
-        {{ if $showLatest }}
-            {{ with $blogPages }}
-                {{ range first (default 3 site.Params.nBlogLatest) . }}
-                    {{- partial "blog-entry-summary" . -}}
+        
+        <div class = 'main_content'>
+            <div class = 'main_post'>
+                {{ if and (or $headlessExists $contentExists) $showLatest }}
+                    {{ $blogLatest := default "Recent Posts" site.Params.blogLatestHeading }}
+                    <h2 class="latest-blog-home">{{- $blogLatest -}}</h2>
                 {{ end }}
-            {{ end }}
-        {{ end }}
-
+                {{ if $showLatest }}
+                    {{ with $blogPages }}
+                        {{ range first (default 3 site.Params.nBlogLatest) . }}
+                            {{- partial "blog-entry-summary" . -}}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </div>
+            <div class = 'main_poem'>
+                {{ if and (or $headlessExists $contentExists) $showLatest }}
+                    {{ $poemLatest := default "Recent Poems" site.Params.poemLatestHeading }}
+                    <h2 class="latest-blog-home">{{- $poemLatest -}}</h2>
+                {{ end }}
+              <!-- Recent Poems -->
+              {{ $pages := .Pages }}
+              {{ $pages = .Site.RegularPages }}
+              {{ $paginator := .Paginate (where $pages "Section" "==" "poems") 5 }}
+                {{ range $paginator.Pages }}
+                  <p>
+                    <a href="{{ .RelPermalink }}">
+                      <span class="recent-posts">{{ .Title | markdownify }}</span>
+                    </a>
+                  </p>
+                {{ end }}
+              <!-- end Recent Poems -->
+            </div>
+        </div>
     </main>
 {{ end }}
