@@ -175,6 +175,6 @@ Are we ever truly ready for the future? I don’t think so. Life is too uncertai
 
 I boarded the plane, unsure of what was to come. In the air, I took one last look at the Boston skyline, the clouds pressed against the horizon. A brilliant swath of pinkish-orange hues left the sky ablaze.
 
-Behind me rested home. Ahead, answers amid a foreign landscape.
+Behind me stood home. Ahead, answers amid a foreign landscape.
 
 ![](/photos/shoes.jpg)
