@@ -16,4 +16,4 @@ I [walked across Spain](/tags/camino-de-santiago) once and [wrote about it](/tag
 
 Books, [poems](/poems/), people, playing outside, and learning bring me joy.
 
-Contact: [@NguyenHPhil](https://twitter.com/NguyenHPhil)
+Contact: [@NguyenHPhil](https://twitter.com/NguyenHPhil) || nguy.philip @ gmail dot com
