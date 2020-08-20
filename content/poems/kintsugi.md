@@ -1,12 +1,13 @@
 ---
 date: "2020-08-20"
-title: "Kintsugi: 2020"
+title: "Kintsugi"
 tags:
   - poem
 ---
-  
+
+_The Japanese art of repairing broken pottery._
+
 {{< poem_open >}}
-* {{< poem-space >}}
 * {{< poem-space >}}
 * **_I. Summer of COVID-19_**
 * {{< poem-space >}}
