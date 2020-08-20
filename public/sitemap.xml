@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/poem/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <loc>/poems/kintsugi/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/poems/singularity/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <loc>/tags/poem/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/poems/27/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/poems/singularity/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
