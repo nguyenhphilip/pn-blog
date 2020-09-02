@@ -10,7 +10,7 @@ title: ""
 
 {{<image float="right" width="11em" frame="true" caption="" src="photos/phil-reading.jpeg" >}}
 
-A California native turned New England leaf peeper, I currently help run the [ABCD Study](https://abcdstudy.org) in Vermont, the largest longitudinal study of adolescent brain development in the US. In the Fall of 2020, I will be studying [Complex Systems and Data Science](https://vermontcomplexsystems.org/) at University of Vermont.
+A California native turned New England leaf peeper, I currently work on the [ABCD Study](https://abcdstudy.org) in Vermont, the largest longitudinal study of adolescent brain development in the US. I'm also a graduate student in the [Complex Systems and Data Science](https://vermontcomplexsystems.org/) program at the University of Vermont.
 
 I [walked across Spain](/tags/camino-de-santiago) once and [wrote about it](/tags/camino-de-santiago).
 
