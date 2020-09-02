@@ -1,5 +1,5 @@
 ---
-date: "2019-12-22"
+date: "2020-02-20"
 title: Devotion
 categories:
   - musings
@@ -9,6 +9,9 @@ tags:
 images:
   - /photos/devotion.JPG
 ---
+
+_This post is in reference to a trip I took shortly before the New Year._
+
 It’s the day I’m supposed to be camping in Joshua Tree, but I find myself driving up the coast instead, hunting for answers. Something is calling me north to Santa Barbara. It feels familiar, like a warm embrace from a distant friend, an aged habit that continues to linger, yet it remains entirely nameless. A ghost is whispering.
 
 I arrive, park in front of my old apartment complex, and shuffle up the steps to the second floor. The chalky blue paint and the unused pool; unit 79, once mine and the host of many firsts; unit 53, a dear friend’s, the place I received story, connection, and an unconditional heart. It was all still there, a collection of memories unchanged by the hand of time. On the way out, I catch my reflection in the pane of a window. What had changed was me.

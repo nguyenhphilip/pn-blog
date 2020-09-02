@@ -238,18 +238,28 @@
   </url>
   
   <url>
-    <loc>/tags/reflection/</loc>
-    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2020/03/weekly/</loc>
-    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+    <loc>/blog/2020/02/devotion/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/weekly/</loc>
-    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+    <loc>/tags/devotion/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/home/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/musings/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -270,11 +280,6 @@
   <url>
     <loc>/poems/dwell/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2020/02/change/</loc>
-    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -360,31 +365,6 @@
   <url>
     <loc>/blog/2020/01/2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2019/12/devotion/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/devotion/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/home/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/musings/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
