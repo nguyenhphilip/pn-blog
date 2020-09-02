@@ -1,5 +1,5 @@
 ---
-date: "2020-08-20"
+date: "2020-08-25"
 title: "Kintsugi"
 tags:
   - poem

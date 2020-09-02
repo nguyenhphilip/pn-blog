@@ -1,5 +1,5 @@
 ---
-date: "2020-07-22"
+date: "2020-07-29"
 title: "Growing Up"
 images:
   - /photos/growing-up.jpg

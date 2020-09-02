@@ -1,5 +1,5 @@
 ---
-date: "2020-07-29"
+date: "2020-07-22"
 title: "Calluses"
 images:
   - /photos/calluses.JPG
