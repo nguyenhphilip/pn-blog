@@ -6,7 +6,7 @@ images:
 tags:
   - poem
 ---
-  
+
 {{< poem_open >}}
 * {{< poem-space >}}
 * The things they’ve seen–
