@@ -17,11 +17,11 @@ These fears are somewhat well-founded, but to live your life this way is to be t
 >
 >Chasing sunrises and sunfalls, with a loaf of bread in my pack. Listening to that far inward call without looking back.
 
-Even when we're committed to a path we have to balance and resolve the competing desires that periodically punctuate our lives. Four weeks into my graduate program, I realized I had to surrender my less important but more immediately satisfying ambitions in order to focus on building the foundation from which the life I wanted could stand. I had to remind myself that the most interesting, wide-ranging people are those who find ways to channel their multitude of interests and abilities into something uniquely theirs. That's how you develop an identity. That's how you become who you are.
+Even when we're committed to a path we have to balance and resolve the competing desires that periodically punctuate our lives. Four weeks into my graduate program, I realized I had to surrender my less important but more immediately satisfying ambitions in order to focus on creating the foundation from which the life I wanted could stand. Of course, I wouldn't be in this program if I wasn't at least partially interested in it either–the journey matters. It has to mean something to you. That's how you get through the tougher days, without wanting to disengage and run away. 
+
+The alternative is to live a divided life. If it feels that way, commit to quitting and finding a new path, or commit to figuring out a better way to live it. Commit to something. The most interesting, wide-ranging people are those who find ways to channel their multitude of interests, abilities and suffering into something uniquely theirs.
 
 Some days I miss it, the familiar yearnings for elsewheres and foreign roads. They are still there if I dig deep enough, though in a different, more mature form. Rather than lead me to new vistas, they've begun to guide me toward richer experiences in what has become the daily. Whether it is with old friends and existing but fertile relationships, partially learned songs and shelved books collecting dust, pursuits that would have previously been uncommitted from when they inevitably grew difficult to chase, the roots I've developed are being embodied. Where they branch off to isn't as important anymore as is embracing the seasonality of it all, wherever it may lead me.
-
-Right now I don't need more. I only need to embrace what already is. Paradoxically, that, I believe, is what will develop into a more colorful life.
 
 *Ici et Maintenant*
 
