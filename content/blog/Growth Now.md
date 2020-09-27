@@ -11,7 +11,7 @@ It’s a sweet form of surrender. So often we're fighting against ourselves whil
 
 >I’m writing less but living more, saying yes and opening doors.
 >
->I’m surfing the waves of singular moments and riding the ebbing rhythms of existence, wherever they decide to take me, without resistance. 
+>I’m surfing the waves of singular moments and riding the rhythms of existence, wherever they decide to take me, without resistance. 
 >
 >Chasing sunrises and sunfalls, with a loaf of bread in my pack. Listening to that far inward call without looking back.
 
