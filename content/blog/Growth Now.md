@@ -9,7 +9,7 @@ I am often thinking about the next thing and the big captial F future, but I fin
 
 It's always been easier for me to throw myself into new situations rather than commit to a singular path. It was what I grew up with. To commit meant losing 'options', which younger me was unwilling to sacrifice, but really I was just scared. Scared of falling into the wrong job, relationship, life. Scared of wasting time and becoming someone who I didn't want to become, even though I had only the slighest glimpse of what that was. 
 
-These fears are somewhat well-founded, but to live your life this way is to be trapped by stories that no longer serve you. The real, honest-to-truth freedom lies in committing to a path you have chosen and refined, even when things get hard and feel uncertain. It's a road only you yourself decide to pave, without the full knowledge of where it may take you.
+These fears are somewhat founded, but to live your life this way is to be trapped by stories that no longer serve you. The real, honest-to-truth freedom lies in committing to a path you have chosen and refined, even when things get hard and feel uncertain. It's a road only you yourself decide to pave, without the full knowledge of where it may take you.
 
 >I’m writing less but living more, saying yes and opening doors.
 >
