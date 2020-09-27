@@ -1,6 +1,6 @@
 ---
 date: "2020-09-27"
-title: "Now"
+title: "Commit Now"
 images:
   - /photos/sunrise.JPG
 ---
