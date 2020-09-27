@@ -1,5 +1,5 @@
 ---
-date: "2020-07-02"
+date: "2020-02-20"
 title: "The Beliefs We Harbor"
 tags:
   - introspection
