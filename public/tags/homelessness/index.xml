@@ -16,7 +16,7 @@
         
 
         
-        <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
         
 
         
@@ -26,12 +26,21 @@
         
             
         <item>
-          <title>Now</title>
-          <link>/blog/2020/09/now/</link>
+          <title>End of Day</title>
+          <link>/blog/2020/10/end-of-day/</link>
+          <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+          
+          <guid>/blog/2020/10/end-of-day/</guid>
+          <description>It’s the end of the day. You’re done with work, studies, dinner, dishes, laundry.</description>
+        </item>
+            
+        <item>
+          <title>Ici et Maintenant</title>
+          <link>/blog/2020/09/ici-et-maintenant/</link>
           <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
           
-          <guid>/blog/2020/09/now/</guid>
-          <description>I am often thinking about the next thing and the big Future future, but I finally feel like I’ve come to accept that this is now my life - grad school, learning, simple living.</description>
+          <guid>/blog/2020/09/ici-et-maintenant/</guid>
+          <description>I am often thinking about the next thing and the big capital F future, but I finally feel like I’ve come to accept that this is now my life - grad school, learning, simple living.</description>
         </item>
             
         <item>
@@ -44,12 +53,12 @@
         </item>
             
         <item>
-          <title>The Beliefs We Harbor</title>
-          <link>/blog/2020/07/the-beliefs-we-harbor/</link>
+          <title>Devotion</title>
+          <link>/blog/2020/07/devotion/</link>
           <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
           
-          <guid>/blog/2020/07/the-beliefs-we-harbor/</guid>
-          <description>What follows is something that happened in 2017. I wrote about it then for my friends and figure it’s worth reposting here, especially given the current state of affairs on the homefront and in the world.</description>
+          <guid>/blog/2020/07/devotion/</guid>
+          <description>This post is in reference to a trip I took shortly before the New Year.</description>
         </item>
             
         <item>
@@ -71,12 +80,12 @@
         </item>
             
         <item>
-          <title>Devotion</title>
-          <link>/blog/2020/02/devotion/</link>
+          <title>The Beliefs We Harbor</title>
+          <link>/blog/2020/02/the-beliefs-we-harbor/</link>
           <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
           
-          <guid>/blog/2020/02/devotion/</guid>
-          <description>This post is in reference to a trip I took shortly before the New Year.</description>
+          <guid>/blog/2020/02/the-beliefs-we-harbor/</guid>
+          <description>What follows is something that happened in 2017. I wrote about it then for my friends and figure it’s worth reposting here, especially given the current state of affairs on the homefront and in the world.</description>
         </item>
             
         <item>
@@ -195,15 +204,6 @@ We began writing letters to each other over a year ago toward the end of 2018.</
           
           <guid>/blog/2019/07/cemetaries/</guid>
           <description>Cemeteries are strange places, quiet and empty yet abundant and full of character.</description>
-        </item>
-            
-        <item>
-          <title>Rome</title>
-          <link>/blog/2019/06/rome/</link>
-          <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-          
-          <guid>/blog/2019/06/rome/</guid>
-          <description>I recently went to Rome, and it was nothing short of stimulating, sensuous, and overwhelming.</description>
         </item>
             
         <item>
