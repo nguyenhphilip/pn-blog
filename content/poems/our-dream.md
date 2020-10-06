@@ -8,7 +8,8 @@ tags:
 ---
   
 {{< poem_open >}}
-
+* *Our Dream*
+* {{< poem-space >}}
 * The rainbow is our dream
 * our sky sketched from creation,
 * our soul canvas colored by

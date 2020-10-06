@@ -9,7 +9,8 @@ tags:
 ---
 
 {{< poem_open >}}
-
+* *Exhalation*
+* {{< poem-space >}}
 * Before there was you
 * Before there was you and your billowing laugh
 * Your callused hands and crooked smile 

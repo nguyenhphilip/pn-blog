@@ -8,7 +8,8 @@ tags:
 ---
   
 {{< poem_open >}}
-
+* *My Light*
+* {{< poem-space >}}
 * When someone dies
 * are they really gone?
 * {{< poem-space >}}

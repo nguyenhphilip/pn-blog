@@ -8,7 +8,8 @@ tags:
 ---
   
 {{< poem_open >}}
-
+* *Knowledge*
+* {{< poem-space >}}
 * She sits in her lab
 * with a handful of instruments
 * and a head full of clues.

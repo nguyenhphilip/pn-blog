@@ -9,7 +9,8 @@ images:
 ---
 
 {{< poem_open >}}
-
+* *Trapeze*
+* {{< poem-space >}}
 * The only way this works
 * is if we catch each other.
 * We’re experienced, yes, but the connection 

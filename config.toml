@@ -14,10 +14,10 @@ summaryLength = 10
   showBlogLatest = true
   mainSections = ["blog"]
   showTaxonomyLinks = false
-  nBlogLatest = 5 # number of blog post on the home page
+  nBlogLatest = 7 # number of blog post on the home page
   blogLatestHeading = "Recent Posts"
   poemLatestHeading = "Recent Poems"
-  nPoemLatest = 5
+  nPoemLatest = 7
   showPoemLatest = true
   
   [params.social]

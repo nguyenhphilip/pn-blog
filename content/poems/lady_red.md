@@ -1,6 +1,6 @@
 ---
 date: "2020-06-10"
-title: "The Lady in Red"
+title: "Lady in Red"
 images:
   - /photos/lady_red.jpg
 tags:
@@ -8,7 +8,8 @@ tags:
 ---
   
 {{< poem_open >}}
-
+* *Lady in Red*
+* {{< poem-space >}}
 * While the yellow-jackets mingle with
 * the Azaleas and the sunflowers
 * and the people with only each other,

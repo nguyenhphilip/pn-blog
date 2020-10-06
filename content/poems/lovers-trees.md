@@ -8,7 +8,8 @@ tags:
 ---
   
 {{< poem_open >}}
-
+* *Lovers*
+* {{< poem-space >}}
 * Winter stripped you of your Colors
 * and left you standing – Naked –
 * without so much as a kiss

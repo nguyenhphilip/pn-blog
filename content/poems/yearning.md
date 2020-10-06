@@ -8,7 +8,8 @@ tags:
 ---
   
 {{< poem_open >}}
-
+* *Yearning*
+* {{< poem-space >}}
 * the child inside me yearns
 * for something more–
 * a clue, perhaps, a sign,

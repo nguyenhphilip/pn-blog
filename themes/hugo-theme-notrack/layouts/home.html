@@ -44,7 +44,7 @@
               <!-- Recent Poems -->
               {{ $pages := .Pages }}
               {{ $pages = .Site.RegularPages }}
-              {{ $paginator := .Paginate (where $pages "Section" "==" "poems") 5 }}
+              {{ $paginator := .Paginate (where $pages "Section" "==" "poems") 7 }}
                 {{ range $paginator.Pages }}
                   <p>
                     <a href="{{ .RelPermalink }}">

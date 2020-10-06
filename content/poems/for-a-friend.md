@@ -7,9 +7,9 @@ tags:
   - poem
 ---
 
-_For Alesha_
-
 {{< poem_open >}}
+* *Meeting Again: For Alesha*
+* {{< poem-space >}}
 * You asked if I ever
 * wrote a poem about you
 * And I said never

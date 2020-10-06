@@ -8,7 +8,8 @@ tags:
 ---
   
 {{< poem_open >}}
-
+* *Singularity*
+* {{< poem-space >}}
 * We were in this together
 * Once–Inseparable
 * like time and gravity,

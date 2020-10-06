@@ -8,7 +8,8 @@ tags:
 ---
   
 {{< poem_open >}}
-
+* *Safe*
+* {{< poem-space >}}
 * The path always leads back to you,
 * my dear,
 * To here where the earth meets the sky

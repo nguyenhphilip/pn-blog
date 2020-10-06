@@ -11,7 +11,8 @@ tags:
 ---
 
 {{< poem_open >}}
-
+* *Winter*
+* {{< poem-space >}}
 * A season between seasons
 * a bridge crossed by the plentiful few,
 * Adults seek it endlessly

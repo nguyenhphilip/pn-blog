@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/poems/vulnerability/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2020/10/end-of-day/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -133,12 +138,12 @@
   </url>
   
   <url>
-    <loc>/poems/remembering/</loc>
+    <loc>/poems/lady_red/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/poems/lady_red/</loc>
+    <loc>/poems/remembering/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
   </url>
   

@@ -201,11 +201,18 @@ figcaption {
 
 .page-title {
   text-align: left;
-  font-size: 1.9em; }
+  font-size: 1.5em;
+  font-weight: none;}
 
 .page-title.blog {
   text-align: left;
-  margin-bottom: 0.5em; }
+  margin-bottom: 0.5em;
+}
+.page-title.poem {
+  text-align: center;
+  margin-bottom: 0.5em;
+  display: none;
+}
 .flex-row {
   display: flex;
   justify-content: center;
@@ -344,7 +351,7 @@ nav li:hover {
   margin: 0.2em 0;
   font-size: 0.8em;
   color: #5f5a6f;
-  margin-left: 1em;
+  margin-left: 0em;
   text-align: left; }
   .blog-post-info a {
     text-transform: capitalize; }

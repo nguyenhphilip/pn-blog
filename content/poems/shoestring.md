@@ -9,7 +9,8 @@ tags:
 ---
 
 {{< poem_open >}}
-
+* *Shoestring*
+* {{< poem-space >}}
 * She’s everything but endearing.
 * Yet she grabs you 
 * like a shoestring

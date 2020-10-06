@@ -8,7 +8,8 @@ tags:
 ---
   
 {{< poem_open >}}
-
+* *How I Know*
+* {{< poem-space >}}
 * A moment of connection
 * A brief glimmer of affection
 * {{< poem-space >}}

@@ -8,7 +8,8 @@ tags:
 ---
   
 {{< poem_open >}}
-
+* *Blue*
+* {{< poem-space >}}
 * I walked to the lake
 * &emsp; to skip
 * &emsp;&emsp; stones

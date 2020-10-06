@@ -8,7 +8,8 @@ tags:
 ---
   
 {{< poem_open >}}
-
+* *The Path Awaits*
+* {{< poem-space >}}
 * The path awaits
 * all who come
 * with enough courage
