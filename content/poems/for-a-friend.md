@@ -8,6 +8,7 @@ tags:
 ---
 
 {{< poem_open >}}
+{{< poem_center >}}
 * *Meeting Again: For Alesha*
 * {{< poem-space >}}
 * You asked if I ever
@@ -21,5 +22,5 @@ tags:
 * of what to make
 * of all this time
 * between us.
-
+{{< poem_center_end >}}
 {{< poem_close >}}

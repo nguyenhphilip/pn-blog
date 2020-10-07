@@ -675,8 +675,11 @@ cite {
 .modal-content, #caption {
   animation-name: zoom;
   animation-duration: 0.4s; }
+
 .poem ul {
+  margin: 0 auto;
   list-style-type: none;
+  width: 70%;
 }
 @keyframes zoom {
   from {
