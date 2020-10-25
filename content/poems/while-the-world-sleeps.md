@@ -13,7 +13,7 @@ tags:
 * into the soft unfolding
 * of morning.
 * {{< poem-space >}}
-* Between pages I’ve suddenly
+* Between stanzas I’ve suddenly
 * forgotten (forgive me Syzmborska)
 * is clasped
 * a single thread
@@ -39,12 +39,20 @@ tags:
 * my world
 * {{< poem-space >}}
 * your presence.
-* While the world sleeps
-* I wake
-* into the color
+* The strand still lingers
+* and dresses herself daily
+* in the same sunlight 
 * {{< poem-space >}}
-* of your absense.
+* and the same unturned pages
+* I still can't remember,
+* still waits for her sisters
+* to come again, loosen up
 * {{< poem-space >}}
-
+* and curl themselves
+* around words, lines, and stories
+* that have yet to be read
+* by more than my eyes
+* {{< poem-space >}}
+* alone.
 {{< poem_close >}}
 
