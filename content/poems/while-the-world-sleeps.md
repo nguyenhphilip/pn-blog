@@ -38,7 +38,7 @@ tags:
 * your scars,
 * my world
 * {{< poem-space >}}
-* your presence.
+* your gravity.
 * The strand still lingers
 * and dresses herself daily
 * in the same sunlight 
