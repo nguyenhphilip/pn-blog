@@ -45,7 +45,7 @@ tags:
 * {{< poem-space >}}
 * May I summon &emsp;	the courage to speak
 * &emsp; &emsp; not out of &emsp; hate &emsp; or righteousness
-not out of the pain	&emsp; I’ve held for so long
+* not out of the pain	&emsp; I’ve held for so long
 * both for myself &emsp;	and for others,
 * {{< poem-space >}}
 * but from the soft palpitations of a heart
