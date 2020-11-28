@@ -30,7 +30,10 @@ tags:
 * &emsp;&emsp; across the sand
 * &emsp;&emsp;&emsp; into the wild open blue
 * {{< poem-space >}}
-
+* while loneliness waited
+* &emsp; by the rocks
+* &emsp; &emsp; and I,
+* &emsp; &emsp; &emsp; I drowned in delight.
 {{< poem_close >}}
 
 ![](/photos/blue.jpg)
