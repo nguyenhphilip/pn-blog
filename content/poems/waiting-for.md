@@ -22,5 +22,3 @@ title: Waiting
 * poised like the sliver of a grin,
 * ready to swing your life away.
 {{< poem_close >}}
-
-![](/photos/tracks.jpg)

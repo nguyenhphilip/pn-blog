@@ -73,4 +73,4 @@ not out of the pain	&emsp; I’ve held for so long
 * celebrating
 * the birth of a nation.
 * {{< poem-space >}}
-* {{< poem_close >}}
+{{< poem_close >}}
