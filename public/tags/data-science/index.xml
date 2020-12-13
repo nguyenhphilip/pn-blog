@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Phil in the Blank</title>
-        <link>/tags/</link>
+        <link>/tags/data-science/</link>
         <description>Latest blog posts from Phil in the Blank</description>
 
         
@@ -20,7 +20,7 @@
         
 
         
-        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
         
 
         
