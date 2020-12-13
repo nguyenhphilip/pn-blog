@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/poems/evanescent/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/poem/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/work/tv-tropes/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url>
@@ -19,11 +34,6 @@
   
   <url>
     <loc>/tags/networks/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,11 +59,6 @@
   
   <url>
     <loc>/poems/prayer/</loc>
-    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/poem/</loc>
     <lastmod>2020-11-07T00:00:00+00:00</lastmod>
   </url>
   
