@@ -8,12 +8,10 @@ menu:
 title: ""
 ---
 
-{{<image float="right" width="11em" frame="true" caption="" src="photos/phil-reading.jpeg" >}}
+{{<image float="right" width="12em" frame="true" caption="" src="photos/phil-guitar.JPG" >}}
 
-A California native turned New England leaf peeper, I currently work on the [ABCD Study](https://abcdstudy.org) in Vermont, the largest longitudinal study of adolescent brain development in the US. I'm also a graduate student in the [Complex Systems and Data Science](https://vermontcomplexsystems.org/) program at the University of Vermont.
+A California native turned New England leaf peeper, I currently work on the [ABCD Study](https://abcdstudy.org) in Vermont, the largest longitudinal study of adolescent brain development in the US. I'm also a graduate student in the [Complex Systems and Data Science](https://vermontcomplexsystems.org/) program at the University of Vermont. 
 
-I [walked across Spain](/tags/camino-de-santiago) once and [wrote about it](/tags/camino-de-santiago).
-
-Books, [poems](/poems/), people, playing outside, and learning bring me joy.
+Books, [poems](/poems/), people, playing guitar, being outside, and learning bring me joy. I [walked across Spain](/tags/camino-de-santiago) once and [wrote about it](/tags/camino-de-santiago). Data science stuff [here.](/work/)
 
 Contact: [@NguyenHPhil](https://twitter.com/NguyenHPhil) || nguy.philip @ gmail dot com
