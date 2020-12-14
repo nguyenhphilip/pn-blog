@@ -14,7 +14,7 @@ tags:
 * of morning.
 * {{< poem-space >}}
 * Between stanzas I’ve suddenly
-* forgotten (forgive me Syzmborska)
+* forgotten (forgive me Szymborska)
 * is clasped
 * a single thread
 * {{< poem-space >}}
