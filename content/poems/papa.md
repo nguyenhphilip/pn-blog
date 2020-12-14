@@ -1,6 +1,6 @@
 ---
 date: "2020-07-29"
-title: "Growing Up"
+title: "Papa"
 images:
   - /photos/growing-up.jpg
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
   
 {{< poem_open >}}
-* *Growing Up*
+* *Papa*
 * {{< poem-space >}}
 * Hunched over in your garden
 * like a daylily on the boardwalk watching
