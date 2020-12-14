@@ -19,7 +19,7 @@ tags:
 * a single thread
 * {{< poem-space >}}
 * of auburn.
-* It’s been four weeks since
+* It’s been months since
 * I last found you
 * rising
 * {{< poem-space >}}
