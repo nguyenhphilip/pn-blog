@@ -7,7 +7,7 @@ tags:
 
 {{< poem_open >}}
 * *Kintsugi,*
-* *the Japenese Art of repairing broken pottery*
+* *the Japanese Art of repairing broken pottery*
 * {{< poem-space >}}
 * **_I. Summer of COVID-19_**
 * {{< poem-space >}}
