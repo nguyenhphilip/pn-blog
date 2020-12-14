@@ -1,6 +1,6 @@
 ---
 date: "2020-10-16"
-title: "Forgive Me Syzmborska"
+title: "Forgive Me Szymborska"
 images:
   - /photos/possibilities.jpg
 tags:
@@ -39,7 +39,7 @@ tags:
 * I prefer the hell of questions to the hell of answers.
 * I prefer cats.
 * I prefer dogs unleashed.
-* I prefer the creased line of a Syzmborska
+* I prefer the creased line of a Szymborska
 * to the headline of a newspaper.
 * I prefer the thrill of knowing to the thrill of believing.
 * I prefer light eyes, since mine are dark.

@@ -48,9 +48,9 @@ tags:
 * not out of the pain	&emsp; I’ve held for so long
 * both for myself &emsp;	and for others,
 * {{< poem-space >}}
-* but from the soft palpitations of a heart
+* but with the soft palpitations of a heart
 * &emsp; &emsp; in search of redemption,
-* &emsp; from the voice of a nation 
+* &emsp; with the hushed voice of a nation 
 * &emsp; &emsp; dying for reconciliation.
 * {{< poem-space >}}
 * V. 

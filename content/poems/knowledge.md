@@ -14,15 +14,15 @@ tags:
 * with a handful of instruments
 * and a head full of clues.
 * Surrounding her are guesses,
-* and things She already knew.
-* If only She could see it,
-* if only She could understand
+* and things she already knew.
+* If only she could see it,
+* if only she could understand
 * how it all fits together
 * in the grand master plan.
 * The past always resolves the future,
-* or so she's told, 
+* so she's learned, 
 * in the present of her time,
-* but still, She feels,
+* but still, she feels,
 * There is so much left to find,
 * there is still so much to know.
 

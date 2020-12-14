@@ -17,8 +17,8 @@ tags:
 * {{< poem-space >}}
 * Forgive me for asking twice,
 * I've already begged in prayer–
-* He gave me a palm filled with ice,
-* a reminder that life wasn't fair.
+* He returned a palm full of ice,
+* a reminder that life isn't fair.
 * {{< poem-space >}}
 * The crows made their sighs
 * and the sunflowers bowed,
@@ -27,7 +27,7 @@ tags:
 * {{< poem-space >}}
 * The grass gleamed with dew
 * as I endured the cold pain,
-* but the earth smiled, renewed,
+* while the earth smiled, renewed,
 * and thanked me for the rain.
 
 {{< poem_close >}}

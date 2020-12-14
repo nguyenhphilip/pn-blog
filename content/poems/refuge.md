@@ -12,7 +12,7 @@ tags:
 * {{< poem-space >}}
 * Find refuge in my Harbor
 * the water Here is clear,
-* Your Storm is now over
+* The Storm is over now
 * Rest easy now, my Dear.
 * {{< poem-space >}}
 * Let your Anchor reach

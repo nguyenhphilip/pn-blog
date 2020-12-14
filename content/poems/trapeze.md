@@ -31,7 +31,7 @@ images:
 * two trapeze artists vaulting 
 * over loneliness,
 * two unhinged orbits 
-* destined to collide.
+* ready to collide.
 
 {{< poem_close >}}
 

@@ -14,7 +14,7 @@ title: Waiting
 * The questions tugging at your soul
 * can wait; she will be there
 * at the end of the day, and if not
-* perhaps tomorrow – at least
+* perhaps tomorrow – well at least
 * you have yourself.
 * {{< poem-space >}}
 * And if not that, well,
