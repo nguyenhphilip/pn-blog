@@ -1,0 +1,248 @@
+---
+title: "Spotify Top Songs Analysis"
+output: html_document
+date: 2020-12-19
+---
+
+<script src="index_files/kePrint/kePrint.js"></script>
+<link href="index_files/lightable/lightable.css" rel="stylesheet" />
+
+
+<div id="spotify-personal-top-100-songs-analysis" class="section level2">
+<h2>Spotify Personal Top 100 Songs Analysis</h2>
+<p>I’ve been an avid Spotify user since my younger high-school gaming days (hipster flex), but Spotify only recently started releasing yearly music reviews that summarize the music you’ve listened to throughout that year. After seeing mine for 2020, I wondered how much my music taste had changed over time, especially given the 2020 coronavirus pandemic. Thankfully there’s a R package called <code>spotifyr</code> that provides intuitive wrapper functions that allows one to analyze practically the entirety of Spotify music data! What follows is a quick, informal dive into this. (For getting setup, I suggest checking out the Github repo <a href="https://github.com/charlie86/spotifyr">here</a> and this tutorial <a href="https://msmith7161.github.io/what-is-speechiness/">here</a>.)</p>
+</div>
+<div id="the-data-and-song-features" class="section level2">
+<h2>The Data and Song Features</h2>
+<p>To answer my question, I’m using my “Top 100 songs of the Year” from 2016-2020 (500 songs), looking specifically at nine features associated with each song (pretty neat that Spotify does this!). I knew I’d been listening to more instrumental, acoustic music since I started learning to play guitar, so I was curious about what the data showed. The features, from their <a href="https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/">API</a>:</p>
+<ul>
+<li>acousticness: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.</li>
+<li>danceability: How suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.</li>
+<li>energy: A measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy.</li>
+<li>instrumentalness: Predicts whether a track contains no vocals. “Ooh” and “aah” sounds are treated as instrumental in this context. Rap or spoken word tracks are clearly “vocal”. The closer the instrumentalness value is to 1.0, the greater likelihood the track contains no vocal content. Values above 0.5 are intended to represent instrumental tracks, but confidence is higher as the value approaches 1.0.</li>
+<li>liveness: Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides strong likelihood that the track is live.</li>
+<li>loudness: The overall loudness of a track in decibels (dB). Loudness values are averaged across the entire track and are useful for comparing relative loudness of tracks. Loudness is the quality of a sound that is the primary psychological correlate of physical strength (amplitude). Values typical range between -60 and 0 db.</li>
+<li>speechiness: Detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech, either in sections or layered, including such cases as rap music. Values below 0.33 most likely represent music and other non-speech-like tracks.</li>
+<li>tempo: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.</li>
+<li>valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).</li>
+</ul>
+</div>
+<div id="uh-oh" class="section level2">
+<h2>Uh Oh</h2>
+<p>Wellp, looking at the different facets, looks like acousticness and instrumentalness has increased, just as suspected. But valence (positive emotion) has decreased, hitting a low in 2020! Whether or not I was actually sadder on average each day of 2020 is another story…</p>
+<p><img src="index_files/figure-html/distribution-1.png" width="1728" /></p>
+<p>Here’s a closer look via some bar plots. The general trend is that everything has decreased for each feature except acousticness and instrumentalness. Loudness has decreased though, which maybe just means I’m getting older… or more sensitive to loud music. But it makes sense if you think about the increase in acousticness.</p>
+<p><img src="index_files/figure-html/barplot-1.png" width="672" /></p>
+<p>And numbers. Voilà, une table.</p>
+<table class="table table-striped lightable-paper" style='margin-left: auto; margin-right: auto; font-family: "Arial Narrow", arial, helvetica, sans-serif; margin-left: auto; margin-right: auto;'>
+<thead>
+<tr>
+<th style="text-align:left;">
+features
+</th>
+<th style="text-align:center;">
+2016
+</th>
+<th style="text-align:center;">
+2017
+</th>
+<th style="text-align:center;">
+2018
+</th>
+<th style="text-align:center;">
+2019
+</th>
+<th style="text-align:center;">
+2020
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;color: white !important;background-color: green !important;">
+acousticness
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+0.24
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+0.28
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+0.39
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+0.48
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+0.56
+</td>
+</tr>
+<tr>
+<td style="text-align:left;color: white !important;background-color: red !important;">
+danceability
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.59
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.62
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.56
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.53
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.49
+</td>
+</tr>
+<tr>
+<td style="text-align:left;color: white !important;background-color: red !important;">
+energy
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.63
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.62
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.52
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.49
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.42
+</td>
+</tr>
+<tr>
+<td style="text-align:left;color: white !important;background-color: green !important;">
+instrumentalness
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+0.12
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+0.11
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+0.18
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+0.24
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+0.52
+</td>
+</tr>
+<tr>
+<td style="text-align:left;color: white !important;background-color: red !important;">
+liveness
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.18
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.15
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.17
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.15
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.14
+</td>
+</tr>
+<tr>
+<td style="text-align:left;color: white !important;background-color: green !important;">
+loudness
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+-7.41
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+-8.07
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+-10.11
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+-11.85
+</td>
+<td style="text-align:center;color: white !important;background-color: green !important;">
+-13.37
+</td>
+</tr>
+<tr>
+<td style="text-align:left;color: white !important;background-color: red !important;">
+speechiness
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.09
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.07
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.06
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.04
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.04
+</td>
+</tr>
+<tr>
+<td style="text-align:left;color: white !important;background-color: red !important;">
+tempo
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+122.08
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+123.69
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+121.12
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+121.26
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+116.32
+</td>
+</tr>
+<tr>
+<td style="text-align:left;color: white !important;background-color: red !important;">
+valence
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.45
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.48
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.41
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.42
+</td>
+<td style="text-align:center;color: white !important;background-color: red !important;">
+0.31
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="inconclusive-conclusions" class="section level2">
+<h2>Inconclusive Conclusions</h2>
+<p>I’d say from personal experience that this trend toward increased acousticness and instrumentalness is a general feature of widened musical taste. I imagine it’s also associated with more bouts of work and study sessions, especially in 2020 given I started graduate school. But I also discovered more music of an acoustic, instrumental nature (Olafur Arnalds, City of the Sun, Max Richter) which I played HEAVILY on repeat while slacklining and rollerblading, two new hobbies I picked up over the summer. My love of fingerpicking on guitar probably has an influence on that too.</p>
+<p>As for the valence, well, let’s find out next year if that changes. I don’t actually feel like my subjective experience of days are all too different from the previous years, although some days are definitely lonelier. And in moments like those I often turn to music. What the data doesn’t capture is the upswing in mood I feel from that form of connection.</p>
+</div>
