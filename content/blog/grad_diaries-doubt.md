@@ -29,11 +29,11 @@ A commandment then: Confront your limits with grace. Try your best in what you d
 
 ---
 
->_“...The Jews also talk about how God judges you for your gifts. Rabbi Zusya once said that when he died, he wasn’t worried that God would ask him “Why weren’t you Moses?” or “Why weren’t you Solomon?” But he did worry that God might ask ‘Why weren’t you Rabbi Zusya?’_
+_“...The Jews also talk about how God judges you for your gifts. Rabbi Zusya once said that when he died, he wasn’t worried that God would ask him “Why weren’t you Moses?” or “Why weren’t you Solomon?” But he did worry that God might ask ‘Why weren’t you Rabbi Zusya?’_
 
->_And this is part of why it’s important for me to believe in innate ability, and especially differences in innate ability. If everything comes down to hard work and a positive attitude, then God has every right to ask me ‘Why weren’t you Srinivasa Ramanujan?’ or ‘Why weren’t you Elon Musk?’_
+_And this is part of why it’s important for me to believe in innate ability, and especially differences in innate ability. If everything comes down to hard work and a positive attitude, then God has every right to ask me ‘Why weren’t you Srinivasa Ramanujan?’ or ‘Why weren’t you Elon Musk?’_
 
->_If everyone is legitimately a different person with a different brain and different talents and abilities, then all God gets to ask me is whether or not I was [Scott Alexander.](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/)_
+_If everyone is legitimately a different person with a different brain and different talents and abilities, then all God gets to ask me is whether or not I was [Scott Alexander.](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/)_
 
->_This seems like a gratifyingly low bar.”_
+_This seems like a gratifyingly low bar.”_
 
