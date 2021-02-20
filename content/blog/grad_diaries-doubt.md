@@ -21,11 +21,11 @@ I mention the video not because I want to dissuade people from science, but beca
 
 There are certainly moments when I lose myself in research projects and spontaneously reading of academic papers. That’s somewhat reassuring because it means that I probably do enjoy some of these things, which justifies the math struggles. But as to whether or not I’ll continue doing research after the program, it’s unlikely, if I had to guess. Not for lack of trying, because some people like the PI of my study and others think I can genuinely do it - I am doing it! - but because I feel a fundamental disconnect between how I'm spending my time and what my strengths are. That doesn't mean I think I'm wasting my time - I just don't see myself sitting day in and out doing research. It doesn't make my heart sing the way it does for some of my amazing peers.
 
-Am I just being lazy? Am I limiting my own potential with this kind of thinking? Maybe, but I don’t think so. Life takes shape when we constrain ourselves, and the best constraint is knowing who you really are and what you enjoy most. Accepting this, perhaps paradoxically, unlocks so much more. You start make things work _for_ you rather than against you. You stop conforming to fit into boxes not meant for you, while creating more space for others. In the process you're seen as a fearless trailblazer, an innovator, a creative independent, when all you're really doing is being yourself.
+Am I just being lazy? Am I limiting my own potential with this kind of thinking? Maybe, but I don’t think so. Life takes shape when we constrain ourselves, and the best constraint is knowing who you really are and what you enjoy most. Accepting this, perhaps paradoxically, unlocks so much more. You start make things work _for_ you rather than against you. You stop conforming to fit into boxes not meant for you anyways, while creating more space for others. In the process you're seen as a fearless trailblazer, an innovator, a creative independent, when all you're really doing is [being yourself.](https://www.brainpickings.org/2017/09/25/e-e-cummings-advice/)
 
 ---
 
-A commandment for myself: Confront your limits with grace. Try your best in what you do, but don’t beat yourself up for not being as good as others – there will always be someone better than you. Enjoy the opportunity to learn instead. Be you. Make it work for you. And don’t define yourself solely by your work.
+_Confront your limits with grace. Try your best in what you do, but don’t beat yourself up for not being as good as others – there will always be someone better than you. Enjoy the opportunity to learn instead. Be you. Make it work for you. And don’t define yourself solely by your work._
 
 ---
 
