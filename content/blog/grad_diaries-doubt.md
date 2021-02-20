@@ -5,7 +5,7 @@ images:
   - /../photos/parents.png
 ---
 
-This was a rough week for me. I spent over 25 hours on a single assignment for one of my classes, Data Science II. Most of the problems included deriving probability distributions and some of their properties, which meant that I had to dust the cobwebs off of the many mathematical tools necessary to do so. And boy were they dusty.
+This was a rough week for me. I spent over 25 hours on a single assignment for one of my classes, Data Science II. Most of the problems involved deriving probability distributions and some of their properties, which meant I had to dust the cobwebs off of the many mathematical tools necessary to do so. And boy were they dusty.
 
 I struggled, and I wasn’t sure how to gauge whether my struggles simply indicated a lack of mathematical fluency, which could be remedied through practice and a firmer grasp of the fundamentals, or if I just wasn’t “getting” it at some deeper intuitive level. This of course led me to wonder if I would _ever_ get it, to the degree that my professor or any other data science practitioner in the ivory tower or industry does. 
 
