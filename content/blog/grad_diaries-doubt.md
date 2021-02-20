@@ -25,7 +25,7 @@ Am I just being lazy? Am I limiting my own potential with this kind of thinking?
 
 ---
 
-_Confront your limits with grace. Try your best in what you do, but don’t beat yourself up for not being as good as others – there will always be someone better than you. Enjoy the opportunity to learn instead. Be you. Make it work for you. And don’t define yourself solely by your work._
+Some instructions for when things get hard: _Confront your limits with grace. Try your best in what you do, but don’t beat yourself up for not being as good as others – there will always be someone better than you. Enjoy the opportunity to learn instead. Be you. Make it work for you. And don’t define yourself solely by your work._
 
 ---
 
