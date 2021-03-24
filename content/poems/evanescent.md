@@ -27,7 +27,7 @@ tags:
 * reminding me
 * {{< poem-space >}}
 * of where we’ve been
-* and where we’re going.
+* and where we’re still going.
 * {{< poem-space >}}
 * there’s not much
 * of that for us anymore,
