@@ -1,6 +1,6 @@
 ---
 date: "2021-03-22"
-title: "Grad School Diaries: Seeking vs. Savoring and other tangents"
+title: "Grad School Diaries: from inward to outward, holding tension"
 ---
 
 As spring buds and the end of the pandemic draws closer in (hazy yet optimistic) sight, I find myself savoring the days more often than I do reflecting on them. Questions revolving around life and meaning are more playful and grounded than they are personal and existential. I feel light, happy, and engaged.
