@@ -1,6 +1,6 @@
 ---
 date: "2020-12-07"
-title: "Seeds, 2020"
+title: "Seeds, Looking back on 2020"
 images:
 - /../photos/seeds4.jpg
 ---
