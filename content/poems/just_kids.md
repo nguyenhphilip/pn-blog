@@ -30,8 +30,7 @@ tags:
 * that sketch the color of my thoughts.
 * Answers are supposed to help
 * but the questions
-* are quicker to rise
-* from their depths.
+* are quicker to rise.
 * {{< poem-space >}}
 * Still, beneath the sail
 * lies the redeeming oar. 
